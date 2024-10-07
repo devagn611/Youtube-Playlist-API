@@ -44,7 +44,7 @@ To set up the project locally, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/youtube-playlist-fetcher.git
+git clone https://github.com/devagn611/youtube-playlist-fetcher.git
 cd youtube-playlist-fetcher
 ```
 
