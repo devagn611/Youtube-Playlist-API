@@ -78,14 +78,9 @@ Visit `http://localhost:3000` in your browser to view the application.
 
 The application is deployed on Vercel. Any changes made to the main branch will automatically trigger a new deployment.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to modify any sections according to your preferences or specific project details. Let me know if you need any more help!
